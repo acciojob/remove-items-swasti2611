@@ -10,6 +10,3 @@ let InputBtn=document.getElementById("form")
     }
 }
 
-InputBtn.addEventListener('click',()=>{
-    removeSelectedColor()
-})
